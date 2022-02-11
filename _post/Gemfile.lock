@@ -272,7 +272,6 @@ GEM
     zeitwerk (2.4.2)
 PLATFORMS
   ruby
-
 DEPENDENCIES
   github-pages (>= 207)
   html-proofer (>= 3.13.0)
